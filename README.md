@@ -14,3 +14,5 @@ backend code : app/http/coontroller/ProcessController.php
 sample image
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+
+Time Taken : 8 hours together with setup new environment, download and setting visual studio code , composer,xampp and new github setup
